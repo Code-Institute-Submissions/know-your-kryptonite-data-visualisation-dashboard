@@ -14,8 +14,7 @@ Objective of project from code institute to CREATE A DATA DASHBOARD that has the
                                                        The wireframe diagram   
  
  
-                                                     ( you will find the wireframe image in the img folder )
-                                                                       ( /static/img )
+                                                     
  
  
  
@@ -53,7 +52,7 @@ CSS: Cascading Style Sheets is a style sheet language used for describing the pr
 Javascript: JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a programming language that is characterized as dynamic, weakly typed, prototype-based and multi-paradigm. 
 
 
-Python: Python is an interpreted, high-level, general-purpose programming language.
+
 
 
 Testing and errors
@@ -66,7 +65,7 @@ Flask-PyMongo — Flask-PyMongo 2.2.0.post3 documentation
 Tutorial — PyMongo 3.7.2 documentation
 How to Create an Interactive Dashboard with Crossfilter and Dc.Js
 https://dc-js.github.io/dc.js/examples/bar.html
-Django Views and URLconfs - Python Django Tutorials
+
 https://www.w3schools.com/
 https://developer.mozilla.org/
 https://www.quora.com/
