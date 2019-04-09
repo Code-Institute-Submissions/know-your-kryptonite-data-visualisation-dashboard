@@ -14,7 +14,8 @@ Objective of project from code institute to CREATE A DATA DASHBOARD that has the
                                                        The wireframe diagram   
  
  
-                                                     
+                                   (You will find the wireframe for this project in wireframe for kryptonite.png file)
+
  
  
  
